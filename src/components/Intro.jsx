@@ -58,7 +58,7 @@ const Box = styled(motion.div)`
   }
   @media (max-width: 1200em) {
     width: 65vw;
-    height: 80vh !important;
+    height: 84vh !important;
   }
 `;
 const SubBox = styled.div`
@@ -101,6 +101,7 @@ const Text = styled.div`
   }
   @media (max-width: 40em) {
     font-size: calc(1rem + 1.5vw);
+    z-index: 999;
   }
   @media (max-width: 40em) {
     & > :last-child {
