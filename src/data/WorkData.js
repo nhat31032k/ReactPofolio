@@ -57,4 +57,13 @@ export const Work = [
     demo: "https://qnhat3103.netlify.app/?fbclid=IwAR1VaBPozFX-ooCSuqwn0N8J8kj2n44UdPUIOrCzokXxe6hPxntwWwBL5CQ",
     github: "https://github.com/nhat31032k/TodoApp-Hook",
   },
+  {
+    id: 7,
+    name: "React-TicTacToe (hook)",
+    description: "Build a TicTacToe web by using react,sass,react-hooks.",
+    tags: ["react", "hook", "scss"],
+
+    demo: "https://celebrated.netlify.app/",
+    github: "https://github.com/nhat31032k/React-TicTacToe.git",
+  },
 ];
