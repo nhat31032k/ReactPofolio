@@ -66,4 +66,13 @@ export const Work = [
     demo: "https://celebrated.netlify.app/",
     github: "https://github.com/nhat31032k/React-TicTacToe.git",
   },
+   {
+    id: 8,
+    name: "React-wiki",
+    description: "Build a wiki web by using react,sass,react-hooks.",
+    tags: ["react", "hook", "scss","api"],
+
+    demo: "https://search-wikiapp.netlify.app/?fbclid=IwAR192KJFrqpDZfFG58XnM2XSUySjsCFv2udxYsOGOrKgNKYogvd2ucyo1cg",
+    github: "https://github.com/nhat31032k/react-wiki",
+  },
 ];
